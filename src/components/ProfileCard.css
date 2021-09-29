@@ -1,20 +1,22 @@
 body {
     padding: 0;
-    margin: 0;
+    margin: 20px;
+
 }
 
 .profile-card{
-    width: 500px;
+    width: 250px;
     border: 2px solid gray;
     text-align: center;
     padding: 0;
-    margin: 0;
+    margin: 0 auto;
     padding-top: 10px;
 }
 
 
 img {
-    width: 450px;
+    width: 200px;
+    border: 1px solid gray;
     border-radius: 15px;
 
 }
@@ -30,6 +32,6 @@ img {
 }
 
 h2,p {
-    padding: 5px;
-    margin: 0;
+    padding: 2px;
+    margin: 2px;
 }
